@@ -8,7 +8,7 @@ Step-2: Modify the default content of res/layout/activity_main.xml file to displ
 Step-3: Add the following code to src/MainActivity.java 
 Step-4: Create an empty activity and add the following code.
 Step-5: Run your application.
-## PROGRAM:
+## PROGRAM 
 ### Mainactivity.java:
 ```java
 package com.example.workshop2;
